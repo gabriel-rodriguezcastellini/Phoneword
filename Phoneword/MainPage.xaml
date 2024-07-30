@@ -6,7 +6,7 @@
         <Label Text = "Enter a Phoneword"
                FontSize ="20"/>
         <Entry x:Name = "PhoneNumberText"
-               Text = "1-555-NETMAUI" />
+               Text = "" />
         <Button x:Name = "TranslateButton"
                 Text = "Translate"
                 Clicked = "OnTranslate"/>
