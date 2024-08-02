@@ -24,7 +24,7 @@
 		<ApplicationTitle>Phoneword</ApplicationTitle>
 
 		<!-- App Identifier -->
-		<ApplicationId>com.companyname.phoneword</ApplicationId>
+		<ApplicationId>com.gabrielrodriguezcastellini.phoneword</ApplicationId>
 
 		<!-- Versions -->
 		<ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
